@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say>Welcome. You have joined the conference room</Say>
+  <Dial>
+    <Conference>myConference</Conference>
+  </Dial>
+</Response>
