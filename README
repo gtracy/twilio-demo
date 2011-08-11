@@ -1,3 +1,10 @@
 This project encapsulates a Twilio presentation I've done for tech events in Madison, WI
 
+The slides are in twilio-demo-presentation.pdf
+
+The app_engine directory contains a deployable app that demos how SMSMyBus requests work for the SMS interface.
+
+The sample-twiml directory contains a couple of static XML examples used in the talk
+ 
+
 
